@@ -6,7 +6,7 @@ variable "region" {
   type    = string
 }
 
-variable "ami_id" {
+variable "ami_name" {
   type    = string
 }
 
